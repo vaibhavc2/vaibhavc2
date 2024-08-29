@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HW5q4LkQ78cY21rs6bM7dM1NFDGsm-Kk/view?usp=drive_link](https://drive.google.com/file/d/1HW5q4LkQ78cY21rs6bM7dM1NFDGsm-Kk/view?usp=drive_link)
 
-- ⚡ Fun fact **JavaScript is Funny Language, really!**
+- ⚡ Fun fact **Java in JavaScript refers to Java's popularity!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
