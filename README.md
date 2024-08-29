@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vaibhavchopra.com](https://vaibhavchopra.com)
 
-- 💬 Ask me about **JavaScript, TypeScript, Express, Next.js, React.js, C++ and more...**
+- 💬 Ask me about **JavaScript, TypeScript, Express, Next.js, React.js, C++, Databases, Data Structures and Algorithms, and more...**
 
 - 📫 How to reach me **vcwork72@gmail.com**
 
